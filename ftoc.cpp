@@ -8,3 +8,4 @@ int main() {
   
   cout << "華氏溫度為：" << celsius * 9 / 5 + 32 << "\n";
 }
+ 
